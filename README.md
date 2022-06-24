@@ -8,4 +8,6 @@
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
+### Deployment:- https://princekumarchaudhary.github.io/Sorting-Algorithm-Visualizer/
+
 
